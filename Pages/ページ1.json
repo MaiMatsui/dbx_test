@@ -1,0 +1,287 @@
+{
+  "Rows": {
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "Values": {
+    "1,24": "ユーザーID",
+    "3,24": "ユーザー名",
+    "5,24": "所属",
+    "7,24": "役職",
+    "9,24": "雇用形態"
+  },
+  "AttachInfos": {
+    "1,2": {
+      "ListViewInfo": {
+        "ShowColumnHeaderInDesigner": true,
+        "TableName": "tb_User",
+        "RowIndex": 1,
+        "ColumnIndex": 2,
+        "ColumnCount": 19,
+        "RowCount": 19,
+        "ColumnOperation": 2,
+        "ShowGridLine": true,
+        "Name": "リストビュー1",
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_Medium2"
+      }
+    },
+    "1,29": {
+      "BindingInfo": {
+        "TableName": "tb_User",
+        "ColumnName": "UserID"
+      }
+    },
+    "2,2": {
+      "BindingInfo": {
+        "TableName": "tb_User",
+        "ColumnName": "UserID"
+      }
+    },
+    "2,6": {
+      "BindingInfo": {
+        "TableName": "tb_User",
+        "ColumnName": "UserName"
+      }
+    },
+    "2,12": {
+      "BindingInfo": {
+        "TableName": "tb_User",
+        "ColumnName": "Department"
+      }
+    },
+    "3,29": {
+      "BindingInfo": {
+        "TableName": "tb_User",
+        "ColumnName": "UserName"
+      }
+    },
+    "5,29": {
+      "BindingInfo": {
+        "TableName": "tb_User",
+        "ColumnName": "Department"
+      }
+    },
+    "7,29": {
+      "BindingInfo": {
+        "TableName": "tb_User",
+        "ColumnName": "Position"
+      }
+    },
+    "9,29": {
+      "BindingInfo": {
+        "TableName": "tb_User",
+        "ColumnName": "TypeOfEmployment"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "BorderTop": 0,
+        "BorderLeft": 0
+      },
+      {
+        "BorderTop": 0
+      },
+      {
+        "BorderTop": 0,
+        "BorderRight": 0
+      },
+      {
+        "FontFamily": 1,
+        "BorderBottom": 1
+      },
+      {
+        "BorderBottom": 1
+      },
+      {
+        "BorderLeft": 0
+      },
+      {
+        "BorderRight": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderLeft": 0
+      },
+      {
+        "BorderBottom": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderRight": 0
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "DarkGray",
+        "Body",
+        "black"
+      ],
+      "Borders": [
+        {
+          "Color": 0
+        },
+        {
+          "Color": 2
+        }
+      ]
+    },
+    "CellStyles": {
+      "1,2": 0,
+      "1,3": 1,
+      "1,4": 1,
+      "1,5": 1,
+      "1,6": 1,
+      "1,7": 1,
+      "1,8": 1,
+      "1,9": 1,
+      "1,10": 1,
+      "1,11": 1,
+      "1,12": 1,
+      "1,13": 1,
+      "1,14": 1,
+      "1,15": 1,
+      "1,16": 1,
+      "1,17": 1,
+      "1,18": 1,
+      "1,19": 1,
+      "1,20": 2,
+      "1,29": 3,
+      "1,30": 4,
+      "1,31": 4,
+      "1,32": 4,
+      "1,33": 4,
+      "1,34": 4,
+      "1,35": 4,
+      "1,36": 4,
+      "1,37": 4,
+      "1,38": 4,
+      "2,2": 5,
+      "2,20": 6,
+      "3,2": 5,
+      "3,20": 6,
+      "3,29": 3,
+      "3,30": 4,
+      "3,31": 4,
+      "3,32": 4,
+      "3,33": 4,
+      "3,34": 4,
+      "3,35": 4,
+      "3,36": 4,
+      "3,37": 4,
+      "3,38": 4,
+      "4,2": 5,
+      "4,20": 6,
+      "5,2": 5,
+      "5,20": 6,
+      "5,29": 3,
+      "5,30": 4,
+      "5,31": 4,
+      "5,32": 4,
+      "5,33": 4,
+      "5,34": 4,
+      "5,35": 4,
+      "5,36": 4,
+      "5,37": 4,
+      "5,38": 4,
+      "6,2": 5,
+      "6,20": 6,
+      "7,2": 5,
+      "7,20": 6,
+      "7,29": 3,
+      "7,30": 4,
+      "7,31": 4,
+      "7,32": 4,
+      "7,33": 4,
+      "7,34": 4,
+      "7,35": 4,
+      "7,36": 4,
+      "7,37": 4,
+      "7,38": 4,
+      "8,2": 5,
+      "8,20": 6,
+      "9,2": 5,
+      "9,20": 6,
+      "9,29": 3,
+      "9,30": 4,
+      "9,31": 4,
+      "9,32": 4,
+      "9,33": 4,
+      "9,34": 4,
+      "9,35": 4,
+      "9,36": 4,
+      "9,37": 4,
+      "9,38": 4,
+      "10,2": 5,
+      "10,20": 6,
+      "11,2": 5,
+      "11,20": 6,
+      "12,2": 5,
+      "12,20": 6,
+      "13,2": 5,
+      "13,20": 6,
+      "14,2": 5,
+      "14,20": 6,
+      "15,2": 5,
+      "15,20": 6,
+      "16,2": 5,
+      "16,20": 6,
+      "17,2": 5,
+      "17,20": 6,
+      "18,2": 5,
+      "18,20": 6,
+      "19,2": 7,
+      "19,3": 8,
+      "19,4": 8,
+      "19,5": 8,
+      "19,6": 8,
+      "19,7": 8,
+      "19,8": 8,
+      "19,9": 8,
+      "19,10": 8,
+      "19,11": 8,
+      "19,12": 8,
+      "19,13": 8,
+      "19,14": 8,
+      "19,15": 8,
+      "19,16": 8,
+      "19,17": 8,
+      "19,18": 8,
+      "19,19": 8,
+      "19,20": 9
+    },
+    "SheetStyle": {
+      "FontFamily": 1
+    }
+  },
+  "Spans": [
+    "3,2,17,19",
+    "2,6,1,6",
+    "2,2,1,4",
+    "2,12,1,9",
+    "5,29,1,10",
+    "1,29,1,10",
+    "3,29,1,10",
+    "7,29,1,10",
+    "9,29,1,10",
+    "1,2,1,4",
+    "1,6,1,6",
+    "1,12,1,9"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, Forguncy",
+    "AuthorizeInfo": {
+      "VisitMode": 2
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}

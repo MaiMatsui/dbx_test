@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationSettings>
+  <AuthenticationMode>Windows</AuthenticationMode>
+  <IntegrateWithOtherApplication>
+    <Password>Z*u8lD~Lm&amp;Hf</Password>
+  </IntegrateWithOtherApplication>
+  <UserServicePort>40270</UserServicePort>
+  <WebSitePort>49356</WebSitePort>
+</ApplicationSettings>

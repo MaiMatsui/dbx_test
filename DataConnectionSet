@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataConnectionSet>
+  <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="Forguncy">
+    <ConnectionString>Data Source=SV0016-DBX01;Initial Catalog=dbx_dev;Integrated Security=True;Persist Security Info=True</ConnectionString>
+    <DataBaseType>SqlServer</DataBaseType>
+    <EConnectionString>hdUBocn7igGJkOiw5oRGKRPpDhiMlJfaFmNqGlSPCsDew16HTzd7kv/qn5sExCUD9jFZwbVqBlnH5DCkEg8+lyTMlBMBribfgMZRRY6t02G4u2ft4NENVmc0+S3dXRnAjAe/GhJGMS3ug5DIxtOSwQ==</EConnectionString>
+    <ID>de3de74b-a13c-4f6c-b56d-e5c22793c3f7</ID>
+  </Item>
+</DataConnectionSet>
