@@ -33,16 +33,7 @@
   },
   {
     "ModuleName": "ページ1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "CORP\\sysad-maima",
-      "Email": "maima@tkcc-jp.com"
-    },
-    "LockDateTime": "2020-12-11T13:26:09.0477046+09:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\ページ1.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "FGC_ユーザーマスターページ",
